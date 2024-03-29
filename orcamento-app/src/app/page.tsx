@@ -3,8 +3,8 @@ import Link from 'next/link';
 
 export default function Home() {
   return (
-    <main>
-      <div>
+    <main className='content'>
+      <div >
         <TestPage>Test2</TestPage>
       </div>
       <div>
