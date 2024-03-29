@@ -14,7 +14,7 @@
 	<name>orcamento</name>
 	<description>Backend for the Orcamento-app</description>
 	<properties>
-		<java.version>21</java.version>
+		<java.version>17</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
